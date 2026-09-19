@@ -1,3 +1,1 @@
-This will have information relevant to the repo or sub-folders.
-
-Reading is recommended as it will go over general guidelines of how to navigate the repo
+Burgers go well with fries
